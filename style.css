@@ -1,0 +1,22 @@
+img {
+    width: 350px height 300px;
+}
+#Title{
+    font-family: 'Fasthand', cursive;
+    font-size: 40px;
+    text-shadow: 2px 2px #F2C14E
+}
+body{
+    background-color: #93A98D;
+}
+.header_div {
+    background-color: #BCF8EC;
+}
+.copy_right_footer {
+    background-color: #CBF7ED; position:fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    text-shadow: 2px 2px #F4E4BA;
+    font-family: 'Inconsolata', monospace;
+}
